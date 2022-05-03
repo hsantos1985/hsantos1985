@@ -3,13 +3,19 @@
 
 
 
+<img align="center" alt="R" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"><img align="center" alt="R" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
 
 
 
 
-![image](https://user-images.githubusercontent.com/94499558/166344916-cd8f6a24-e8ca-4b80-9bbb-3b392567d493.png)
-![image](https://user-images.githubusercontent.com/94499558/166345002-d5d62cec-6003-4239-a9b7-1c82ab64b98c.png)
+
+
+
+
+
+
+
 
 
 
