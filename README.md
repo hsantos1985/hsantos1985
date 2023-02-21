@@ -4,8 +4,8 @@
 
 
 <img align="center" alt="R" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"><img align="center" alt="R" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="R" height="100" width="100" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="R" height="100" width="100" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+<img align="center" alt="R" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="R" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
 
 
 
