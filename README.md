@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hsantos1985
-- 👀 I’m interested in learn everthing about python, r and data science.
+👋 Hi, I'm @hsantos1985 - 👀 I'm interested in learn everthing about python, r and data science. 
+Data is a new tool to undestand our society, lets find out new pattern and make new forescast!!
 
 
 
